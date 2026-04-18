@@ -1,0 +1,41 @@
+body {
+    font-size: 1.5em;
+    background-color: #251E78; /* Fundo escuro */
+    color: #D9C9C3; /* Texto claro */
+}
+header {
+    background-color: azure;
+    margin-bottom: 1rem;
+}
+section {
+    background-color: #2D1779;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #333333;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+ul li {
+    padding: 5px 0;
+}
+h1 {
+    font-size: 6vh;
+    color: #94F8CA;
+}
+h2 {
+    font-size: 5vh;
+    color: #94F8CA;
+}
+.tecnologiasItem {
+    background-color: #e7e5ea; /* Fundo para itens de tecnologias */
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#hsf1home, #jogomemoria{
+    background-color: rgb(3, 3, 81);
+}
